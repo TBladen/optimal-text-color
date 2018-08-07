@@ -1,0 +1,18 @@
+{
+  "name": "@tbladen/optimal-text-color",
+  "version": "0.1.0",
+  "description": "Pick the optimal text color for a given background color using the W3C Specification",
+  "main": "./src/optimal-text-color.js",
+  "scripts": {
+    "test": "jest --env=node"
+  },
+  "keywords": [
+    "text-color",
+    "W3C"
+  ],
+  "author": "Thomas Bladen-Hovell",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.4.2"
+  }
+}
